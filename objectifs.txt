@@ -1,0 +1,4 @@
+AUDIO:
+->récupérer le son
+->sonogramme (pour une moyenne mobile de temps, fft puis on affiche volume en fonction de fréquence et temps)
+-fft en fonction du temps -> retirer le bruit par exemple -> fft inverse pour retrouver le son
